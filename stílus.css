@@ -1,2 +1,19 @@
-body {background-color: rgb(224, 224, 224); color:black}
-table {border="0"
+body {
+    background-color: rgb(224, 224green, 224blue);
+    color: black;
+}
+table {
+    border: 0;
+    width: 650px;
+    text-align: center;
+    background-color: rgb(92, 107green, 123blue)
+}
+td table {
+    background-color: white;
+    border: 0;
+}
+tr {
+    background-color:rgb(205, 219green, 235blue) ;
+    text-align: center;
+    height: 35px;
+}
